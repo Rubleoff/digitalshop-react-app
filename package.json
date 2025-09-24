@@ -1,5 +1,6 @@
 {
   "name": "digital-shop-react",
+  "homepage":"https://rubleoff.github.io/digitalshop-react-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
